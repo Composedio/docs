@@ -28,7 +28,7 @@ keywords:
 [Truffle](https://trufflesuite.com/) is a blockchain development environment, which you can use to create and test smart contracts by levering an Ethereum Virtual Machine.
 
 ### What you will learn
-This guide aims at teaching how to create a smart contract using Truffle and deploying it on XDC Network.
+This Guide aims at teaching how to create a smart contract using Truffle and deploying it on XDC Network.
 
 ### What you will do
 - Install and set up Truffle
